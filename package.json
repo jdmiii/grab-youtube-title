@@ -1,0 +1,16 @@
+{
+  "name": "grab-youtube-title",
+  "version": "1.0.0",
+  "description": "grabs title, description, and channel data from a given youtube link",
+  "main": "grab-youtube-title.js",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "got": "^11.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdm",
+  "license": "ISC"
+}
